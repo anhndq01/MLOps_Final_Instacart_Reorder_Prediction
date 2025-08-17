@@ -1,9 +1,10 @@
 # MLOps Final Project: Instacart Reorder Prediction
 
 ## 1. Project setup
-
+``` basg
 git clone https://github.com/anhndq01/MLOps_Final_Instacart_Reorder_Prediction.git
 cd MLOps_Final_Instacart_Reorder_Prediction
+```
 
 ## 2. How to get data
 
