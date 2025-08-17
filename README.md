@@ -1,3 +1,32 @@
 # MLOps Final Project: Instacart Reorder Prediction
 
-The merged train and test datasets are too large for Github. They can be found on Google Drive: [Data](https://drive.google.com/drive/folders/1FtYu1VIJZhZyN4fB9xl9p_rQkTeBguxl?usp=drive_link)
+## 1. Project setup
+
+git clone https://github.com/anhndq01/MLOps_Final_Instacart_Reorder_Prediction.git
+cd MLOps_Final_Instacart_Reorder_Prediction
+
+## 2. How to get data
+
+### Install DVC
+``` bash
+pip install dvc
+```
+
+### Set up Google Drive for syncing
+
+1. Install Google Drive for Desktop and sign in to your account.
+2. Choose Mirror files mode in the preferences.
+3. Create or pick a folder to be used for this project, e.g.:
+   /Users/your_user_name/Google Drive/Synced
+
+### Configure DVC
+``` bash
+dvc remote add -d gdrive_local "/Users/your_user_name/Google Drive/Synced" --local
+```
+
+### Pull the datasets
+``` bash
+dvc pull
+```
+
+After this, verify that the data/ folder appears in your local project folder.
