@@ -1,0 +1,10 @@
+artifact_location: file:///Users/quynhanhnd2402/UChicago/Fourth%20Quarter/MLOps/Final_project/mlruns/0/models/m-0d0b07d595ba4cabbd0b3a5d362a6dc9/artifacts
+creation_timestamp: 1755579226076
+experiment_id: '0'
+last_updated_timestamp: 1755579228880
+model_id: m-0d0b07d595ba4cabbd0b3a5d362a6dc9
+model_type: null
+name: baseline_rf_pipeline
+source_run_id: d7705e14eecd49e5ac203bedff45959a
+status: 2
+status_message: null
