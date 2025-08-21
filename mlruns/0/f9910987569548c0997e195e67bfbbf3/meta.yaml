@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/quynhanhnd2402/UChicago/Fourth%20Quarter/MLOps/Final_project/mlruns/0/f9910987569548c0997e195e67bfbbf3/artifacts
+deleted_time: 1755756048552
 end_time: 1755733222622
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f9910987569548c0997e195e67bfbbf3
 run_name: Baseline_RandomForest_Balanced
 source_name: ''
