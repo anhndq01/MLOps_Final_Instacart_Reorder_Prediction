@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/quynhanhnd2402/UChicago/Fourth%20Quarter/MLOps/Final_project/mlruns/0/14af4ddc04bd495a8cdee5903e231000/artifacts
+end_time: 1755733438660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14af4ddc04bd495a8cdee5903e231000
+run_name: Baseline_RandomForest_Balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755733363806
+status: 3
+tags: []
+user_id: quynhanhnd2402

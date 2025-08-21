@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/quynhanhnd2402/UChicago/Fourth%20Quarter/MLOps/Final_project/mlruns/0/602fd8c6da1942768159e3be1827e039/artifacts
+end_time: 1755736883433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 602fd8c6da1942768159e3be1827e039
+run_name: H2O_AutoML_Balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755736883382
+status: 3
+tags: []
+user_id: quynhanhnd2402

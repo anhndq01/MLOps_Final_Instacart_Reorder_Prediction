@@ -1,0 +1,10 @@
+artifact_location: file:///Users/quynhanhnd2402/UChicago/Fourth%20Quarter/MLOps/Final_project/mlruns/0/models/m-04b34321e70646689688f221d977b9a6/artifacts
+creation_timestamp: 1755733218987
+experiment_id: '0'
+last_updated_timestamp: 1755733222351
+model_id: m-04b34321e70646689688f221d977b9a6
+model_type: null
+name: baseline_rf_pipeline_balanced
+source_run_id: f9910987569548c0997e195e67bfbbf3
+status: 2
+status_message: null
